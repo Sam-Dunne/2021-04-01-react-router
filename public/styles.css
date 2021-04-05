@@ -1,0 +1,16 @@
+#app-wrapper {
+    background-color : rgba(223, 204, 201, 0.11) !important;
+    min-height: 100vh !important;
+    height: 100% !important;
+}
+
+/* img {
+    width: 20vh !important;
+} */
+
+
+
+/* #button-home {
+    float: right !important;
+    margin: auto;
+} */
